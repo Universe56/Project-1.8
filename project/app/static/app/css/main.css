@@ -1,0 +1,35 @@
+.navigation{
+    float: right;
+    height: 10%;
+
+}
+
+.navigation a{
+    height: 10%;
+    display: table;
+    float: right;
+    padding: 0px 30px;
+    background-color: black;
+
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 25px;
+    color: white;
+
+}
+
+.navigation a:hover{
+    background-color: grey;
+    color: white;
+
+}
+
+.header{
+    background-color: black;
+    padding: 50px;
+
+}
+
